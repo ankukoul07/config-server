@@ -5,5 +5,5 @@ eureka:
       service-url:
           defaultZone: http://estock-eureka-elb-968939317.ap-south-1.elb.amazonaws.com/eureka/
   instance:
-      hostname: localhost
+      hostname: estock-eureka-elb-968939317.ap-south-1.elb.amazonaws.com
     
